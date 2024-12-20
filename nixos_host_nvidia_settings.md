@@ -1,3 +1,8 @@
++++
+created = "2022-08-01"
+tags = ["test", "test2"]
++++
+
 this is a guide for doing hyprland on nixos with nvidia
 
 [reddit thread](https://www.reddit.com/r/NixOS/comments/137j18j/need_guide_on_installing_hyprland/)
