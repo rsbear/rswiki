@@ -1,3 +1,10 @@
+---
+title: carbon steel pan seasoning
+created: 2024-12-291T00:00:00-05:00
+tags:
+  - food
+  - life
+--- 
 ## Season Carbon Steel Pan Seasoning
 
 ### stuff
@@ -14,4 +21,4 @@
 6. yes, chef.
 
 ### notes
-carbon steel rusts, apply a little extra effort to maintainence.
+carbon steel rusts. clean after use and reaseason.
