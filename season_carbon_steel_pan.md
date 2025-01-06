@@ -1,10 +1,8 @@
 ---
 title: carbon steel pan seasoning
-created: 2024-12-291T00:00:00-05:00
-tags:
-  - food
-  - life
+created: 2024-12-29
 --- 
+
 ## Season Carbon Steel Pan Seasoning
 
 ### stuff

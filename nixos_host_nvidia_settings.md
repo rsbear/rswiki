@@ -1,9 +1,6 @@
 ---
+title: NixOS Host Nvidia Settings
 created: "2022-08-01"
-tags:
-  - nixos
-  - nvidia
-  - hyprland
 ---
 
 this is a guide for doing hyprland on nixos with nvidia
